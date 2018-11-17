@@ -1,0 +1,12 @@
+.custom-article--hidden{display:none}
+#hidden:target .custom-article--default{display:none}
+#hidden:target .custom-article--hidden{display:block}
+
+.custom-text-extra{color:#555}
+.custom-button-box{text-align:center}
+.custom-button{
+    border-radius:3px;padding:10px 30px;
+    background:#4a59aa;
+    cursor:pointer;
+    color:#eee;text-decoration:none;
+}

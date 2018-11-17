@@ -1,0 +1,14 @@
+body{
+    font:16px/24px Cambria, serif;
+    background:#ccc url(../i/body.png);
+}
+
+.art-w{margin:0 auto;width:750px}
+.art-h1{text-align:center}
+.art-article{
+    margin:32px 0;
+    padding:24px 64px;
+    background:#fff;
+    box-shadow:#99a0a5 0 3px 10px;
+}
+.art-p{white-space:pre-line}
