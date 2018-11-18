@@ -13,3 +13,8 @@ body{
 }
 .art-date{font-size:.9em;color:#777}
 .art-p{white-space:pre-line}
+.art-separator--asterisk{
+    border:none;height:24px;
+    text-align:center;color:#777;
+}
+.art-separator--asterisk:after{content:'* * *'}
